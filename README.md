@@ -1,4 +1,4 @@
-# go-39-metoddostavkipril
+# mod 39
 
 ### Pre-requirements
 
